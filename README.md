@@ -11,14 +11,14 @@ Simplify the academic journey with our platform. </p>
 </tr></thead>
 <tbody>
 <tr>
-<td> Home</td>
+<td> <b>Homepage</b></td>
 <td>index.html</td>
 <td> FacultyConnect homepage, you can discover the latest news and upcoming events.</td>
 </tr>
 <tr> 
-<td> Departments </td>
+<td><b> Departments</b> </td>
 <td> cs.html <br> math.html
-<td>Explore our two departments: <br> <b><a href='https://saraiin.github.io/FacultyConnect/cs.html'> Computer Science</a><b> <br> <b><a href='https://saraiin.github.io/FacultyConnect/math.html'>Mathematics</a><b><br> Each with its own unique offerings.</td> </tr>
+<td>Explore our two departments: <br> <b><a href='https://saraiin.github.io/FacultyConnect/cs.html'> Computer Science</a><b> <br> <b><a href='https://saraiin.github.io/FacultyConnect/math.html'>Mathematics</a></b><br> Each with its own unique offerings.</td> </tr>
 
 </tbody>
 </table>
@@ -26,6 +26,6 @@ Simplify the academic journey with our platform. </p>
 
 <h2>AUTHORS </h2>
 - <strong> <a href=""> Sara</a> </strong> <br>
-- Abdessamad <br>
+- <strong> <a href="">Abdessamad </strong> <br>
 
 <p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! :) </p>
