@@ -36,7 +36,7 @@ Simplify the academic journey with our platform. </p>
 </tr>
 <tr>
 <td><b>Research </b> </td>
-<td>In the research section, users can find the most recent research findings and posts. Explore more on our <b><a href="https://saraiin.github.io/FacultyConnect/research.html">Research Page.</a></b></td>
+<td>In the research section, users can find the most recent research findings and posts. Explore more on our <b><a href="https://saraiin.github.io/FacultyConnect/research.html">Research Page. :mag:</a></b></td>
 </tr>
 <tr>
 <td><b>Contact :speech_balloon:</b></td>
@@ -47,10 +47,10 @@ Simplify the academic journey with our platform. </p>
 
 
 :warning: :construction:
- <b>At the moment, our primary focus is on front-end development. We plan to address the back-end later to ensure that users, both students for result checking and teachers for posting lessons, have access to their accounts seamlessly. </b>
+ <b>At the moment, our primary focus is on front-end development. We plan to address the back-end later to ensure that users, both students for result and private documents checking and teachers for posting lessons, have access to their accounts seamlessly. </b>
 
 <h2>AUTHORS </h2>
 - <strong> <a href="https://github.com/Saraiin"> Sara</a> </strong> <br>
 - <strong> <a href="">Abdessamad </a></strong> <br>
-
+<br>
 <p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! 😊 </p>
