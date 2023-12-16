@@ -3,7 +3,7 @@
 
 <p> <b>FacultyConnect</b>, the student-friendly destination for easy access to essential faculty resources. 
 Simplify the academic journey with our platform. </p>
-<p>  Check out the website <b><a href="https://saraiin.github.io/FacultyConnect/">here</a></b> :rocket: :link:
+<p>  Check out the website <b><a href="https://saraiin.github.io/FacultyConnect/">here</a></b> :rocket: :link: 😊
 <center><img src="https://github.com/Saraiin/FacultyConnect/blob/main/images/facultyconnect.png?raw=true"  width="800"/></center>
 
 <table>
@@ -24,6 +24,7 @@ Simplify the academic journey with our platform. </p>
  </tr>
 <tr>
 <td><b>Programs</b></td>
+<td></td>
 <td>  Discover our programs with dedicated pages for both Master's and Bachelor's degrees. Explore the possibilities available, and if you're curious about a Bachelor's program, here's a sneak peek: Example Bachelor's Program.</td>
 </tr>
 </tbody>
@@ -34,4 +35,4 @@ Simplify the academic journey with our platform. </p>
 - <strong> <a href=""> Sara</a> </strong> <br>
 - <strong> <a href="">Abdessamad </strong> <br>
 
-<p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! :) </p>
+<p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! 😊 </p>
