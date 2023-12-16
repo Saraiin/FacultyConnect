@@ -15,14 +15,17 @@ Simplify the academic journey with our platform. </p>
 <td>index.html</td>
 <td> FacultyConnect homepage, you can discover the latest news and upcoming events.</td>
 </tr>
-<tr> <td>Explore our two departments: Computer Science and Mathematics, each with its own unique offerings.</td> </tr>
+<tr> 
+<td> Departments </td>
+<td> cs.html <br> math.html
+<td>Explore our two departments: [Computer Science](https://saraiin.github.io/FacultyConnect/cs.html) and [Mathematics](https://saraiin.github.io/FacultyConnect/math.html), each with its own unique offerings.</td> </tr>
 
 </tbody>
 </table>
 
 
 <h2>AUTHORS </h2>
-- Sara 
+- [Sara] 
 - Abdessamad 
 
 <p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! :) </p>
