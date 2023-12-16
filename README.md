@@ -7,9 +7,7 @@ Simplify the academic journey with our platform. </p>
 <center><img src="https://github.com/Saraiin/FacultyConnect/blob/main/images/facultyconnect.png?raw=true"  width="800"/></center>
 
 <table>
-<thead> 
-<tr> <th></th> <th></th> <th></th> 
-</tr></thead>
+
 <tbody>
 <tr>
 <td> <b>Homepage</b></td>
@@ -37,11 +35,11 @@ Simplify the academic journey with our platform. </p>
 <td>Currently, users can access public lessons without any restrictions.Click <b><a href="https://saraiin.github.io/FacultyConnect/Bcomp.html">here</a></b> for an example.However, for private documents and results, logging into their accounts is required.</td>
 </tr>
 <tr>
-<td><b>Research :book: </b> </td>
+<td><b>Research </b> </td>
 <td>In the research section, users can find the most recent research findings and posts. Explore more on our <b><a href="https://saraiin.github.io/FacultyConnect/research.html">Research Page.</a></b></td>
 </tr>
 <tr>
-<td><b>Contact :speech_ballon:</b></td>
+<td><b>Contact :speech_balloon:</b></td>
 <td>In the <b><a href="https://saraiin.github.io/FacultyConnect/contact.html">Contact</a></b> section, users will find email addresses and links to all our social media platforms. This provides multiple ways for them to reach out, whether it's for technical assistance with their accounts or general inquiries.</td>
 </tr>
 </tbody>
