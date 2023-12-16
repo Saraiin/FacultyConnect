@@ -31,8 +31,8 @@ Simplify the academic journey with our platform. </p>
 <td> We've set up a simple chatbot to help you find programs and departments. Right now, it's basic, but we're planning to make it way more useful down the line. Stay tuned for updates! :speech_balloon:</td>
 </tr>
 <tr>
-<td><b>Documents</b> :book:</td>
-<td>Currently, users can access public lessons without any restrictions.Click <b><a href="https://saraiin.github.io/FacultyConnect/Bcomp.html">here</a></b> for an example. However, for private documents and results, logging into their accounts is required.</td>
+<td><b>Documents</b> </td>
+<td>Currently, users can access public lessons without any restrictions.Click <b><a href="https://saraiin.github.io/FacultyConnect/Bcomp.html">here</a></b> for an example. However, for private documents and results, logging into their accounts is required. :book:</td>
 </tr>
 <tr>
 <td><b>Research </b> </td>
