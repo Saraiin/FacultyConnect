@@ -30,9 +30,10 @@ Simplify the academic journey with our platform. </p>
 <tr>
 
 <td>ChatBot🤖</td>
+
 <td></td>
-<td></td></tr>
 <td> We've set up a simple chatbot to help you find programs and departments. Right now, it's basic, but we're planning to make it way more useful down the line. Stay tuned for updates! :hammer::speech_balloon:</td>
+</tr>
 <tr></tr>
 </tbody>
 </table>
