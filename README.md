@@ -10,8 +10,8 @@ Simplify the academic journey with our platform. </p>
 </tr></thead>
 <tbody>
 <tr>
-<td></td>
-<td></td>
+<td> index.html</td>
+<td>Home</td>
 <td></td>
 </tr>
 
