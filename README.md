@@ -3,7 +3,7 @@
 
 <p> FacultyConnect, the student-friendly destination for easy access to essential faculty resources. 
 Simplify the academic journey with our platform. </p>
-<img src=""  width="300"/>
+<img src="https://github.com/Saraiin/FacultyConnect/blob/main/images/facultyconnect.png?raw=true"  width="300"/>
 
 <table>
 <thead> 
@@ -25,7 +25,7 @@ Simplify the academic journey with our platform. </p>
 
 
 <h2>AUTHORS </h2>
-- [Sara] 
-- Abdessamad 
+- [Sara] <br>
+- Abdessamad <br>
 
 <p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! :) </p>
