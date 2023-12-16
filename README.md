@@ -18,14 +18,14 @@ Simplify the academic journey with our platform. </p>
 <tr> 
 <td> Departments </td>
 <td> cs.html <br> math.html
-<td>Explore our two departments: <a href='https://saraiin.github.io/FacultyConnect/cs.html'> Computer Science</a> and <a href='https://saraiin.github.io/FacultyConnect/math.html'>Mathematics</a>, each with its own unique offerings.</td> </tr>
+<td>Explore our two departments: <br> <b><a href='https://saraiin.github.io/FacultyConnect/cs.html'> Computer Science</a><b> <br> <b><a href='https://saraiin.github.io/FacultyConnect/math.html'>Mathematics</a><b><br> Each with its own unique offerings.</td> </tr>
 
 </tbody>
 </table>
 
 
 <h2>AUTHORS </h2>
-- [Sara] <br>
+- <strong> <a href=""> Sara</a> </strong> <br>
 - Abdessamad <br>
 
 <p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! :) </p>
