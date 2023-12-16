@@ -25,7 +25,7 @@ Simplify the academic journey with our platform. </p>
 <tr>
 <td><b>Programs</b></td>
 <td></td>
-<td>  Discover our programs with dedicated pages for both Master's and Bachelor's degrees. Explore the possibilities available, and if you're curious about a Bachelor's program, here's a sneak peek: Example Bachelor's Program.</td>
+<td>  Discover our programs with dedicated pages for both<b> <a href="https://saraiin.github.io/FacultyConnect/master.html">Master</a>'s</b> and <b><a href="https://saraiin.github.io/FacultyConnect/bachelor.html">Bachelor</a>'s</b> degrees. Explore the possibilities available, and if you're curious about a Bachelor's program, here's a sneak peek: <b><a href="https://saraiin.github.io/FacultyConnect/csbachelor.html ">Example  of Bachelor's Program.</a></b></td>
 </tr>
 </tbody>
 </table>
@@ -33,6 +33,7 @@ Simplify the academic journey with our platform. </p>
 
 <h2>AUTHORS </h2>
 - <strong> <a href=""> Sara</a> </strong> <br>
-- <strong> <a href="">Abdessamad </strong> <br>
-
+- <strong> <a href="">Abdessamad </a></strong> <br>
+:warning:
+ <b>At the moment, our primary focus is on front-end development. We plan to address the back-end later to ensure that users, both students for result checking and teachers for posting lessons, have access to their accounts seamlessly. </b>
 <p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! 😊 </p>
