@@ -30,20 +30,18 @@ Simplify the academic journey with our platform. </p>
 <tr>
 
 <td><b>ChatBot🤖</b></td>
-
-<td></td>
 <td> We've set up a simple chatbot to help you find programs and departments. Right now, it's basic, but we're planning to make it way more useful down the line. Stay tuned for updates! :speech_balloon:</td>
 </tr>
 <tr>
 <td><b>Documents</b> :book:</td>
-<td>Currently, users can access public lessons without any restrictions.Click <b<a href="https://saraiin.github.io/FacultyConnect/Bcomp.html">here</a></b> for an example.However, for private documents and results, logging into their accounts is required.</td>
+<td>Currently, users can access public lessons without any restrictions.Click <b><a href="https://saraiin.github.io/FacultyConnect/Bcomp.html">here</a></b> for an example.However, for private documents and results, logging into their accounts is required.</td>
 </tr>
 <tr>
 <td><b>Research :book: </b> </td>
 <td>In the research section, users can find the most recent research findings and posts. Explore more on our <b><a href="https://saraiin.github.io/FacultyConnect/research.html">Research Page.</a></b></td>
 </tr>
 <tr>
-<td><b>Contact :speech_ballon</b></td>
+<td><b>Contact :speech_ballon:</b></td>
 <td>In the <b><a href="https://saraiin.github.io/FacultyConnect/contact.html">Contact</a></b> section, users will find email addresses and links to all our social media platforms. This provides multiple ways for them to reach out, whether it's for technical assistance with their accounts or general inquiries.</td>
 </tr>
 </tbody>
