@@ -3,7 +3,7 @@
 
 <p> <b>FacultyConnect</b>, the student-friendly destination for easy access to essential faculty resources. 
 Simplify the academic journey with our platform. </p>
-<p>  Check out the website <b><a href="">here</a></b> :rocket: :link:
+<p>  Check out the website <b><a href="tps://saraiin.github.io/FacultyConnect/">here</a></b> :rocket: :link:
 <center><img src="https://github.com/Saraiin/FacultyConnect/blob/main/images/facultyconnect.png?raw=true"  width="800"/></center>
 
 <table>
