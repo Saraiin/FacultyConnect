@@ -28,8 +28,9 @@ Simplify the academic journey with our platform. </p>
 <td>  Discover our programs with dedicated pages for both<b> <a href="https://saraiin.github.io/FacultyConnect/master.html">Master</a>'s</b> and <b><a href="https://saraiin.github.io/FacultyConnect/bachelor.html">Bachelor</a>'s</b> degrees. Explore the possibilities available, and if you're curious about a Bachelor's program, here's a sneak peek: <b><a href="https://saraiin.github.io/FacultyConnect/csbachelor.html ">Example  of Bachelor's Program.</a></b></td>
 </tr>
 <tr>
-<td></td>
+
 <td>ChatBot🤖</td>
+<td></td>
 <td></td></tr>
 <td> We've set up a simple chatbot to help you find programs and departments. Right now, it's basic, but we're planning to make it way more useful down the line. Stay tuned for updates! :hammer::speech_balloon:</td>
 <tr></tr>
