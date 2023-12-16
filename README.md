@@ -17,7 +17,7 @@ Simplify the academic journey with our platform. </p>
 <tr> 
 <td><b> Departments</b> </td>
 
-<td>Explore our two departments: <br> <b><a href='https://saraiin.github.io/FacultyConnect/cs.html'> Computer Science</a> <br>
+<td>Explore our two departments: <br> <b><a href='https://saraiin.github.io/FacultyConnect/cs.html'> Computer Science</a> </b><br>
  <b><a href='https://saraiin.github.io/FacultyConnect/math.html'>Mathematics</a></b><br> Each with its own unique offerings.</td>
  </tr>
 <tr>
