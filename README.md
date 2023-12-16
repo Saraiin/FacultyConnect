@@ -1,4 +1,4 @@
-<h1 >FacultyConnect</h1> 
+<h1 >FacultyConnect :computer:</h1> 
 
 
 <p> FacultyConnect, the student-friendly destination for easy access to essential faculty resources. 
@@ -6,8 +6,15 @@ Simplify the academic journey with our platform. </p>
 
 <table>
 <thead> 
-<tr> <th>File</th> <th>Page</th> <th></th> </thead>
+<tr> <th>File</th> <th>Page</th> <th></th> 
+</tr></thead>
 <tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
 </table>
 
