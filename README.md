@@ -1,10 +1,15 @@
-<h1 style="text-align:center;">FacultyConnect</h1> 
+<h1 >FacultyConnect</h1> 
 
 
 <p> FacultyConnect, the student-friendly destination for easy access to essential faculty resources. 
 Simplify the academic journey with our platform. </p>
 
-
+<table>
+<thead> 
+<tr> <th>File</th> <th>Page</th> <th></th> </thead>
+<tbody>
+</tbody>
+</table>
 
 
 <h2>AUTHORS </h2>
