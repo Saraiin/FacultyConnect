@@ -1,4 +1,4 @@
-<h1>FacultyConnect</h1>
+<center> <h1>FacultyConnect</h1> </center>
 
 
 <p> FacultyConnect, the student-friendly destination for easy access to essential faculty resources. 
