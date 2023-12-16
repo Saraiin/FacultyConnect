@@ -3,7 +3,7 @@
 
 <p> FacultyConnect, the student-friendly destination for easy access to essential faculty resources. 
 Simplify the academic journey with our platform. </p>
-<img src="https://github.com/Saraiin/FacultyConnect/blob/main/images/facultyconnect.png?raw=true"  width="300"/>
+<img src="https://github.com/Saraiin/FacultyConnect/blob/main/images/facultyconnect.png?raw=true"  width="600"/>
 
 <table>
 <thead> 
@@ -18,7 +18,7 @@ Simplify the academic journey with our platform. </p>
 <tr> 
 <td> Departments </td>
 <td> cs.html <br> math.html
-<td>Explore our two departments: [Computer Science](https://saraiin.github.io/FacultyConnect/cs.html) and [Mathematics](https://saraiin.github.io/FacultyConnect/math.html), each with its own unique offerings.</td> </tr>
+<td>Explore our two departments: <a href='https://saraiin.github.io/FacultyConnect/cs.html'> Computer Science</a> and <a href='https://saraiin.github.io/FacultyConnect/math.html'>Mathematics</a>, each with its own unique offerings.</td> </tr>
 
 </tbody>
 </table>
