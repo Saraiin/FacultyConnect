@@ -32,7 +32,7 @@ Simplify the academic journey with our platform. </p>
 </tr>
 <tr>
 <td><b>Documents</b> :book:</td>
-<td>Currently, users can access public lessons without any restrictions.Click <b><a href="https://saraiin.github.io/FacultyConnect/Bcomp.html">here</a></b> for an example.However, for private documents and results, logging into their accounts is required.</td>
+<td>Currently, users can access public lessons without any restrictions.Click <b><a href="https://saraiin.github.io/FacultyConnect/Bcomp.html">here</a></b> for an example. However, for private documents and results, logging into their accounts is required.</td>
 </tr>
 <tr>
 <td><b>Research </b> </td>
