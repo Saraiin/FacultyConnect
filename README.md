@@ -1,7 +1,8 @@
 <h1>FacultyConnect</h1>
-<p>Building an engaging and user-friendly faculty website for seamless academic exploration.</p>
 
 
+<p> FacultyConnect, the student-friendly destination for easy access to essential faculty resources. 
+Simplify the academic journey with our platform. </p>
 
 
 
