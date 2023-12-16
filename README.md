@@ -34,6 +34,6 @@ Simplify the academic journey with our platform. </p>
 <h2>AUTHORS </h2>
 - <strong> <a href=""> Sara</a> </strong> <br>
 - <strong> <a href="">Abdessamad </a></strong> <br>
-:warning:
+:warning: :construction:
  <b>At the moment, our primary focus is on front-end development. We plan to address the back-end later to ensure that users, both students for result checking and teachers for posting lessons, have access to their accounts seamlessly. </b>
 <p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! 😊 </p>
