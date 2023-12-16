@@ -21,7 +21,10 @@ Simplify the academic journey with our platform. </p>
 <td>Explore our two departments: <br> <b><a href='https://saraiin.github.io/FacultyConnect/cs.html'> Computer Science</a> <br>
  <b><a href='https://saraiin.github.io/FacultyConnect/math.html'>Mathematics</a></b><br> Each with its own unique offerings.</td>
  </tr>
-
+<tr>
+<td><b>Programs</b></td>
+<td>  Discover our programs with dedicated pages for both Master's and Bachelor's degrees. Explore the possibilities available, and if you're curious about a Bachelor's program, here's a sneak peek: Example Bachelor's Program.</td>
+</tr>
 </tbody>
 </table>
 
