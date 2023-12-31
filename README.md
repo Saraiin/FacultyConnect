@@ -1,5 +1,5 @@
 <h1 >FacultyConnect :computer:</h1> 
-<i>For Alx portfolio project :) </i>
+<i> Alx portfolio project :) </i>
 
 <p> <b>FacultyConnect</b>, the student-friendly destination for easy access to essential faculty resources. 
 Simplify the academic journey with our platform. </p>
