@@ -54,6 +54,6 @@ Simplify the academic journey with our platform. </p>
 - JAVASCRIPT <br>
 <h2>AUTHORS </h2>
 - <strong> <a href="https://github.com/Saraiin"> Sara</a> </strong> <br>
-- <strong> <a href="">Abdessamad </a></strong> <br>
+
 <br>
 <p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! 😊 </p>
