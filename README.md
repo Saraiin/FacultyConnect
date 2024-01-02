@@ -57,3 +57,4 @@ Simplify the academic journey with our platform. </p>
 
 <br>
 <p> Feel free to navigate, explore, and make the most of your experience on our faculty website. Happy learning! 😊 </p>
+😊
