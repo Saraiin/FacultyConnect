@@ -48,7 +48,7 @@ Simplify the academic journey with our platform. </p>
 
 :warning: :construction:
  <b>At the moment, our primary focus is on front-end development. We plan to address the back-end later to ensure that users, both students for result and private documents checking and teachers for posting lessons, have access to their accounts seamlessly. </b>
-<h2> Technolog </h2>
+<h2> Technology </h2>
 - HTML <br>
 - CSS <br>
 - JAVASCRIPT <br>
